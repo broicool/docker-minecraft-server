@@ -1,6 +1,12 @@
-.vscode
-/data/
-/.idea/
-*.iml
-/gh-md-toc
-personal-build-and-develop.*
+# MakeCode
+built
+node_modules
+yotta_modules
+yotta_targets
+pxt_modules
+.pxt
+_site
+*.db
+*.tgz
+.header.json
+.simstate.json
